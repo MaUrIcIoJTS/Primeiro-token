@@ -8,12 +8,12 @@ O contrato implementa manualmente a interface ERC20, sem uso de bibliotecas exte
 
 # Características do Token
 
-.Nome: DIO TOKEN 
-.Símbolo: DIO 
-.Decimais: 18 
-.Supply Inicial: 10 DIO 
-.Padrão: ERC20 
-.Solidity: ^0.8.0 
+- `Nome: DIO TOKEN`
+- `Símbolo: DIO` 
+- `Decimais: 18`
+- `Supply Inicial: 10 DIO`
+- `Padrão: ERC20`
+- `Solidity: ^0.8.0`
 
  > O supply inicial é definido como `10 ether`, o que equivale a **10 tokens considerando 18 casas decimais**.
 
